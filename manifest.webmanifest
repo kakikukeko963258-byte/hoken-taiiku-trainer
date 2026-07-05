@@ -1,0 +1,17 @@
+{
+  "name": "保健体育テスト対策",
+  "short_name": "保健体育",
+  "description": "健康・生活習慣病・がん・運動・食事を暗記できるオフライン対応アプリ",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f7f6",
+  "theme_color": "#2f6f6b",
+  "icons": [
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
